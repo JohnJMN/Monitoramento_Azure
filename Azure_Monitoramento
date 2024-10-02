@@ -1,0 +1,5 @@
+Uma das ferramentas que achei muito útil é o Azure Monitor. Ele coleta dados de telemetria de suas aplicações e serviços, tanto na nuvem quanto localmente. Com ele, você pode analisar esses dados e agir rapidamente para resolver problemas. Ele inclui coisas como Log Analytics e Application Insights, que ajudam a entender o desempenho das suas aplicações.
+
+Outra ferramenta importante é o Azure Advisor. Ele funciona como um consultor pessoal, analisando seu ambiente no Azure e dando recomendações personalizadas para melhorar a segurança, desempenho, alta disponibilidade e até mesmo reduzir custos. É como ter um especialista sempre te ajudando a otimizar tudo.
+
+E não podemos esquecer do Azure Service Health. Essa ferramenta te mantém informado sobre qualquer problema ou manutenção que possa afetar seus serviços no Azure. Ele envia alertas personalizados e orientações sobre como mitigar qualquer impacto. É essencial para garantir que você esteja sempre ciente do estado dos seus serviços.
